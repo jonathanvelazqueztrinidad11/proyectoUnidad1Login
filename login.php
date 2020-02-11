@@ -17,7 +17,6 @@
       <input type="text" name="email" placeholder="ingrese su email">
       <input type="password" name="password" placeholder="ingresa tu contraseña">
       <input type="submit" value="send">
-
     </form>
 
   </body>
