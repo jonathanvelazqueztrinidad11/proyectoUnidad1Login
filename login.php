@@ -2,9 +2,13 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>login</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href="assents/css/style.css">
   </head>
   <body>
+
+    <h1>login</h1>
 
     <form action="login.php" method="post">
       <input type="text" name="email" placeholder="ingrese su email">
