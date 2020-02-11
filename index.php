@@ -2,9 +2,12 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>bienvenido a mi aplicacion</title>
+    <title>proyectoUnidad1</title>
   </head>
   <body>
+    <h1>Por Favor Registrate o Ingresa</h1>
 
+    <a href="login.php">Ingresa</a> or
+    <a href="singup.php">Registrate</a>
   </body>
 </html>
