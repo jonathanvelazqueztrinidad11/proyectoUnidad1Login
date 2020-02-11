@@ -7,6 +7,10 @@
     <link rel = "stylesheet" href="assents/css/style.css">
   </head>
   <body>
+    <header>
+      <a href="/">conejosTecEquipo6Frameworks</a>
+    </header>
+
     <h1>Por Favor Registrate o Ingresa</h1>
 
     <a href="login.php">Ingresa</a> or
