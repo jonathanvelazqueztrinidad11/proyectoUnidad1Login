@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>proyectoUnidad1</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href="assents/css/style.css">
   </head>
   <body>
     <h1>Por Favor Registrate o Ingresa</h1>
