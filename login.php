@@ -8,6 +8,8 @@
   </head>
   <body>
 
+    <?php require 'partials/header.php' ?>
+
     <h1>login</h1>
 
     <form action="login.php" method="post">

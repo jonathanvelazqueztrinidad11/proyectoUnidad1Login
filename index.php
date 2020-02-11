@@ -7,9 +7,6 @@
     <link rel = "stylesheet" href="assents/css/style.css">
   </head>
   <body>
-    <header>
-      <a href="/proyectoUnidad1_login">conejosTecEquipo6Frameworks</a>
-    </header>
 
     <h1>Por Favor Registrate o Ingresa</h1>
 
